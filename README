@@ -1,1 +1,1 @@
-this is a test
+Poor implementation of Dissociated Press algorithm. Hope to make it better compatible with chunksize > 1, and use argv for arguments.
